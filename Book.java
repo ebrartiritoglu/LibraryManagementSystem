@@ -1,5 +1,4 @@
 // models/Book.java - Represents a book in the library system
-package models;
 
 public class Book {
     private String title; // Title of the book
