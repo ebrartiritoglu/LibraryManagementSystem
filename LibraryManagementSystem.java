@@ -1,7 +1,5 @@
 // app/LibraryManagementSystem.java - Main application to interact with the user
-package app;
 
-import services.Library;
 import java.util.Scanner;
 
 public class LibraryManagementSystem {
