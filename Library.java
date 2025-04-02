@@ -1,7 +1,5 @@
 // services/Library.java - Manages library operations
-package services;
 
-import models.Book;
 import java.util.ArrayList;
 
 public class Library {
